@@ -3,4 +3,4 @@ This is a pong ball game
 <br>
 click on this link
 <br>
-https://mydash24personalproject.on.drv.tw/www.pongball.play
+[play](https://sachiraghab23.github.io/Pong-ball-game/)
